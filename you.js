@@ -11,7 +11,7 @@
       height: '100%',
       width: '100%',
       videoId: jQuery('#player').attr('data-yt'),
-      host: 'https://www.cartoonsvid.com',
+      host: 'https://www.youtube.com',
       playerVars: {
 		'enablejsapi' : 1,
       	'playsinline': 1,
